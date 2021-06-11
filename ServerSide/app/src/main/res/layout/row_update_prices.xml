@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/txtIdFoodUpdatePrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="1"
+        android:textColor="@android:color/white"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/txtNameFoodUpdatePrice"
+        android:layout_width="100dp"
+        android:layout_marginLeft="2dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="4"
+        android:textStyle="bold"
+        android:text="THAI STYLE SALAD"
+        android:textColor="@android:color/white"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/txtPriceOld"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:text="1000"
+        android:textColor="@android:color/white"
+        android:textSize="15dp" />
+
+    <EditText
+        android:id="@+id/editTextPriceNew"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:gravity="center"
+        android:inputType="number"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textSize="15dp" />
+
+</TableRow>

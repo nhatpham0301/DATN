@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Server Side</string>
+    <string name="slogan">We transport products to customers as quickly as our ex betrays</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_tracking_order">Map</string>
+    <string name="Banner">Quảng cáo</string>
+    <string name="Name_Banner">Name Banner</string>
+    <string name="Add_new_banner">Add new banner</string>
+    <string name="Please_fill_all_information">Please fill all information</string>
+    <string name="Food_Id">Food Id</string>
+    <string name="Food_name">Food name</string>
+    <string name="Select_picture">Select picture</string>
+    <string name="Create">Create</string>
+    <string name="New_food">New food</string>
+    <string name="was_added">was adder</string>
+    <string name="Cancel">Đã hủy</string>
+    <string name="Update">Update</string>
+    <string name="Firebase_Banner_name">name</string>
+    <string name="Firebase_Banner_id">id</string>
+    <string name="Firebase_Banner_image">image</string>
+    <string name="Updated">Updated</string>
+    <string name="No">No</string>
+    <string name="was_deleted">was deleted</string>
+    <string name="Send_message">Send message</string>
+    <string name="Title">Title</string>
+    <string name="Message">Message</string>
+    <string name="Shipper_Management">Quản lí Shipper</string>
+    <string name="Place">Đặt hàng</string>
+    <string name="Finish">Đã giao</string>
+    <string name="Shipping">Đang giao</string>
+    <string name="Processing">Đang xử lí</string>
+    <string name="Remember_password">Remember password</string>
+    <string name="Remember_me">Remember me</string>
+</resources>

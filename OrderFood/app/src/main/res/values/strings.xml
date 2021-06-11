@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Order Food</string>
+    <string name="slogan">No matter where you are: whether you are at home, or in your office, or the the beach we will find you and we will feed you</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="new_password">New Password</string>
+    <string name="change_password">Change password</string>
+    <string name="please_fill_all_information">Vui lòng điền đầy đủ các trường!</string>
+    <string name="change">Change</string>
+    <string name="cancel">Cancel</string>
+    <string name="wrong_old_password">Wrong old password</string>
+    <string name="new_password_does_not_math">New password does\'t math</string>
+    <string name="firebase_password">password</string>
+    <string name="firebase_Users">Users</string>
+    <string name="Password_was_update">Mật khẩu đã được cập nhật</string>
+    <string name="facebook_app_id">249939549604905</string>
+    <string name="facebook_login_protocol_name">fb249939549604905</string>
+    <string name="paypal_client_id">Ab9qQJxZLbIcc7QqF2zyV4Q2NV2g5fcUdfHkse2680tTBPXlERdDUZixzboqOq7GpiMbk6qRRRfEa154</string>
+    <string name="Comment">Bình luận</string>
+    <string name="Address">Địa chỉ</string>
+    <string name="USD">USD</string>
+    <string name="App_Order_Food">App Order Food</string>
+    <string name="Show_comment">Hiện bình luận</string>
+    <string name="User_phone">Số điện thoại</string>
+    <string name="Banner">Banner</string>
+    <string name="Delivery_method">Nơi nhận</string>
+    <string name="Payment_method">Phương thức thanh toán</string>
+    <string name="Cash_On_Delivery">Thanh toán khi nhận hàng</string>
+    <string name="Paypal">Paypal</string>
+    <string name="Subscribe_news">Subscribe news</string>
+    <string name="Delete">Xóa</string>
+    <string name="Search">Tìm kiếm</string>
+    <string name="Favorites">Yêu thích</string>
+    <string name="Enter_your_phone_number_for_verification">Vui lòng nhập số điện thoại của bạn để tiếp tục</string>
+    <string name="Continue">Tiếp tục</string>
+    <string name="title_activity_tracking_order">Bản đồ</string>
+    <string name="Place">Đặt hàng</string>
+    <string name="Shipping">Đang giao</string>
+    <string name="Finish">Đã giao</string>
+    <string name="Cancel">Đã hủy</string>
+    <string name="Processing">Đang chờ xử lí</string>
+</resources>

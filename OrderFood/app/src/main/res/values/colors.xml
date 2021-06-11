@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorPrimary_BG">#004d40</color>
+    <color name="colorPrimaryDark_BG">#00251a</color>
+    <color name="colorAccent_BG">#39796b</color>
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignIn">#A9d440</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+
+    <color name="colorNavigationEnd">#00CC00</color>
+    <color name="colorNavigationStart">#33CC66</color>
+
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorGreen">#008000</color>
+    <color name="gray">#838080</color>
+    <color name="backgroundColor">#C6C1C1</color>
+</resources>

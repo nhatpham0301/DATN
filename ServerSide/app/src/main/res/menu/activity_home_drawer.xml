@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_order"
+            android:icon="@drawable/ic_order"
+            android:title="Đơn hàng" />
+
+        <item
+            android:id="@+id/nav_banner"
+            android:icon="@drawable/ic_banner_black_24dp"
+            android:title="@string/Banner" />
+
+        <item
+            android:id="@+id/nav_shipper_management"
+            android:icon="@drawable/ic_baseline_local_shipping_24"
+            android:title="@string/Shipper_Management" />
+
+        <item
+            android:id="@+id/nav_signOut"
+            android:icon="@drawable/ic_signout"
+            android:title="Đăng xuất" />
+
+    </group>
+
+</menu>
